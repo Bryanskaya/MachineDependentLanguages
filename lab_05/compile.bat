@@ -1,0 +1,1 @@
+ml.exe lab_05.asm input.asm output.asm move_8.asm move_16.asm
